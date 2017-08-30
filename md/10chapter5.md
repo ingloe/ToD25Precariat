@@ -5,14 +5,14 @@ A-id: 25
 Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: 00
-Article-title: Chapter 5. The Emancipation of the Precariat: Urban Power, Basic Income, Climate Justice
+Item-id: 10
+Article-title: Chapter 5
 Article-status: accepted
 Author: Alex Foti
 Author-email:   corresponding address
-Author-bio:  precarious, editor, activist, creator of EUROMAYDAY and writer of ANARCHY IN THE EU, theorist of the Precariat, Great Recession, Europe
-Abstract:   General Theory of the Precariat by Alex Foti
-Keywords:   precarity, precariat, europe, recession, revolution, economy
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   precarity, precariat, revolution, recession, economy
 Rights: CC BY-NC 4.0
 
 ---
@@ -738,19 +738,13 @@ Climate Conference of 2016. However, then rose Trump, who made
 petro-capitalism and the willful ignorance of climate science the
 backbones of his reactionary project.
 
-  ------------------- ---------------- -------------
-                      **Reformist **   **Radical**
+  --------------- ------------------------------ ------------------------
+                  **Reformist **                 **Radical**
+  *Prosaic*       Technocratic Pragmatism        Malthusian Survivalism
+  *Imaginative*   Environmental Sustainability   Green Radicalism
+  --------------- ------------------------------ ------------------------
 
-  ***Prosaic***       Technocratic     Malthusian
-                                       
-                      Pragmatism       Survivalism
-
-  ***Imaginative***   Environmental    Green
-                                       
-                      Sustainability   Radicalism
-  ------------------- ---------------- -------------
-
-Table 13. Types of Environmental Discourse. Source: Dryzek (2005)
+Table 24. Types of Environmental Discourse. Source: Dryzek (2005)
 
 Green radicalism is the ideological discourse that mobilizes climate
 anarchists, engendering civil disobedience, unrest, and ecotage in the
@@ -873,7 +867,7 @@ scenarios:
   Green Maoism
   --------------------
 
-Table 14: The Climate Question: Future Macro-Political Scenarios
+Table 25: The Climate Question: Future Macro-Political Scenarios
 
 If the biosphere becomes uninhabitable for much of the human species, a
 global war for resources is likely to ensue, leading to areas where

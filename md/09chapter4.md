@@ -5,17 +5,18 @@ A-id: 25
 Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: 00
-Article-title: Chapter 4. The Politics of the Precariat: Revolution and Social Populism
+Item-id: 09
+Article-title: Chapter 4
 Article-status: accepted
 Author: Alex Foti
 Author-email:   corresponding address
-Author-bio:  precarious, editor, activist, creator of EUROMAYDAY and writer of ANARCHY IN THE EU, theorist of the Precariat, Great Recession, Europe
-Abstract:   General Theory of the Precariat by Alex Foti
-Keywords:   precarity, precariat, europe, recession, revolution, economy
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   precarity, precariat, revolution, recession, economy
 Rights: CC BY-NC 4.0
 
 ---
+
 
 # Chapter 4. The Politics of the Precariat: Revolution and Social Populism 
 
@@ -232,7 +233,7 @@ majority of the population, and the protection of liberties that are
 fundamental to a fair society: welfare, labor, gender, and cyber rights.
 
   --------------------------- ----------------------------------------------------------------------------- -------------------------------------------------------------------------------------------
-                              Anti-Globalization Movement                                                   Movement of the Squares
+                              **Anti-Globalization Movement**                                               **Movement of the Squares**
   *Ideology*                  Black anarchism, red marxism, pink feminism, green ecology                    Social populism and cyber libertarianism
   *Values*                    Anarchy, autonomy, diversity                                                  Inclusiveness and unity
   *Actors*                    Global activists                                                              National citizens
@@ -245,10 +246,12 @@ fundamental to a fair society: welfare, labor, gender, and cyber rights.
   *Projection*                Transnational                                                                 National
   *State and Civil Society*   Global civil society vs neoliberalism: anti-statist                           The people vs the elite: reclaiming democratic sovereignty
   *Relation with Left*        Collaboration                                                                 Competition
-  Geopolitics                 South vs North                                                                Democracy vs authoritarianism
-  Economics                   Fair trade and social responsibility                                          Basic income and social expenditure
-  Historical Utopia           End of capitalism                                                             End of inequality
+  *Geopolitics*               South vs North                                                                Democracy vs authoritarianism
+  *Economics*                 Fair trade and social responsibility                                          Basic income and social expenditure
+  *Historical Utopia*         End of capitalism                                                             End of inequality
   --------------------------- ----------------------------------------------------------------------------- -------------------------------------------------------------------------------------------
+
+Table 19.
 
 ### Social Movements: the 00s vs the 10s 
 
@@ -327,29 +330,29 @@ comparison of the basic characteristics of neoliberalism and national
 populism, so we can better understand the nature of the threats posed to
 democracy.
 
-  --------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------
-                  *NEOLIBERALISM *                                          *NAZIPOPULISM*
+  --------------- -------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
+                  ***Neoliberalism ***                                                       ***Nazipopulism***
 
-  *Economy*       International free trade                                  Nationalist protectionism
-                                                                            
-                  restrictive fiscal policy, expansionary monetary policy   restrictive monetary policy, expansionary fiscal policy
+  *Economy*       International free trade                                                   Nationalist protectionism, restrictive monetary policy, expansionary fiscal policy
+                                                                                             
+                  restrictive fiscal policy, expansionary monetary policy                    
 
-  *Geopolitics*   partnership with China, rivalry with Russia               Partnership with Russia, rivalry with China, European disintegration, rebalancing of NATO
-                                                                            
-                  European Union as NATO ally                               
+  *Geopolitics*   Partnership with China, rivalry with Russia, European Union as NATO ally   Partnership with Russia, rivalry with China, European disintegration, rebalancing of NATO
 
-  *Technology*    Green capitalism                                          Fossil-fuel capitalism
+  *Technology*    Green capitalism                                                           Fossil-fuel capitalism
 
-  *Ideology*      Conservative/ moderate                                    Reactionary nationalism, racism, neoconservatism.
-                                                                            
-                  liberalism, christian democracy, social democracy         
+  *Ideology*      Conservative/ moderate                                                     Reactionary nationalism, racism, neoconservatism.
+                                                                                             
+                  liberalism, christian democracy, social democracy                          
 
-  *Population*    Mass migration and multiculturalism                       Closed borders and white supremacy
+  *Population*    Mass migration and multiculturalism                                        Closed borders and white supremacy
 
-  *Culture*       Individualism, liberal feminism, cosmopolitanism          Populism, misogyny, provincialism, manipulation of irrationalism and technology as domination
-                                                                            
-                  Scientific reason and technology as efficiency            
-  --------------- --------------------------------------------------------- -----------------------------------------------------------------------------------------------
+  *Culture*       Individualism, liberal feminism, cosmopolitanism                           Populism, misogyny, provincialism, manipulation of irrationalism and technology as domination
+                                                                                             
+                  Scientific reason and technology as efficiency                             
+  --------------- -------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
+
+Table 20.
 
 ## Social Populism vs. National Populism
 
@@ -386,39 +389,22 @@ movements as ways for the corrupt bankers and politicians to further
 enrich themselves and are likely to reintroduce capital controls if
 elected.
 
-  ----------------- ---------------------------------------------------------------------------- ----------------------------------------------------------------------------
-                    *Social Populism*                                                            *National Populism*
+  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------
+                    **Social Populism**                                                                                                                                                                         **National Populism**
+  *Ideology*        Egalitarianism, feminism, anti-racism                                                                                                                                                       Nationalism, white supremacy, male chauvinism
+  *Actors*          Precarious youth, indignant citizens                                                                                                                                                        Oligarchs, xenophobic working-class and petty bourgeoisie
+  *Enemy*           Financial elite, political caste, police state                                                                                                                                              Cosmopolitans, women, minorities, muslims, immigrants
+  *Geopolitics*     Southern Europe, Middle East, Latin America                                                                                                                                                 U.S., Russia, Britain, Turkey
+  *Demands*         Radical democracy, living wage, basic income, climate justice                                                                                                                               Cronyism, nepotism, fossil-fuel capitalism
+  *Economics*       Fair trade, local development, alternative currencies, expansionary fiscal                                                                                                                  Protectionism, restrictive monetary policy
+  *Distribution *   Egalitarian                                                                                                                                                                                 Inegalitarian
+  *Technology*      Open source, sustainable energy                                                                                                                                                             Proprietary, fossil-fuel energy
+  *Media*           Neighborhood councils, protest social media                                                                                                                                                 Charismatic gatherings, fake news viralization
+  *Tactics*         Women's Tide, mass civil resistance, labor rights campaigns                                                                                                                                 Moral crusades, immigration walls, Muslim bans, criminalization of protest
+  *Slogans*         *No Es Una Crisis, Es Una Estafa* (Indignados), *Fight for \$15* (Fast-Food Workers), *Rêve Général* (Nuit Debout), *Refugees Are Welcome* (No Borders), *Ni Una Menos* (Feminist Strike)   Make America (Russia, Turkey) Great Again
+  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------
 
-  *Ideology*        Egalitarianism, feminism, anti-racism                                        Nationalism, white supremacy, male chauvinism
-
-  *Actors*          Precarious youth, indignant citizens                                         Oligarchs, xenophobic working-class and petty bourgeoisie
-
-  *Enemy*           Financial elite, political caste, police state                               Cosmopolitans, women, minorities, muslims, immigrants
-
-  *Geopolitics*     Southern Europe, Middle East, Latin America                                  U.S., Russia, Britain, Turkey
-
-  *Demands*         Radical democracy, living wage, basic income, climate justice                Cronyism, nepotism, fossil-fuel capitalism
-
-  *Economics*       Fair trade, local development, alternative currencies, expansionary fiscal   Protectionism, restrictive monetary policy
-
-  *Distribution *   Egalitarian                                                                  Inegalitarian
-
-  *Technology*      Open source, sustainable energy                                              Proprietary, fossil-fuel energy
-
-  *Media*           Neighborhood councils, protest social media                                  Charismatic gatherings, fake news viralization
-
-  *Tactics*         Women's Tide, mass civil resistance, labor rights campaigns                  Moral crusades, immigration walls, Muslim bans, criminalization of protest
-
-  *Slogans*         *No Es Una Crisis, Es Una Estafa* (Indignados)                               Make America (Russia, Turkey) Great Again
-                                                                                                 
-                    *Fight for \$15* (Fast-Food Workers)                                         
-                                                                                                 
-                    *Rêve Général* (Nuit Debout)                                                 
-                                                                                                 
-                    *Refugees Are Welcome* (No Borders)                                          
-                                                                                                 
-                    *Ni Una Menos* (Feminist Strike)                                             
-  ----------------- ---------------------------------------------------------------------------- ----------------------------------------------------------------------------
+Table 21.
 
 National populism is authoritarian capitalism. Just as Putin filled
 government and Gazprom with his Chekist cronies, Trump is filling his
@@ -910,7 +896,7 @@ pyramid in contemporary capitalism actually looks like:
   Urban Underclass
   ------------------------
 
-Table 11: The Class Pyramid of Advanced Capitalism, 2010s
+Table 22: The Class Pyramid of Advanced Capitalism, 2010s
 
 Below the commandeering 1% of financiers and tycoons, there is a
 privileged stratum of salaried employees and professionals. They are the
@@ -1152,7 +1138,7 @@ the three other major sources of resistance to capital: Marxian
 autonomy, green environmentalism, and pink genderism:
 
   ----------------- -------------------------------------------------------- -------------------------------------------------- ------------------------------------------------------------ ------------------------------
-                    ***Anarcho-green***                                      ***Anarcho-syndicalist***                          ***Anarcho-autonomist***                                     **Anarcho-feminist**
+                    **Anarcho-green**                                        **Anarcho-syndicalist**                            **Anarcho-autonomist**                                       **Anarcho-feminist**
   *Aim*             Defend the Earth                                         Subvert the economy                                Smash the state                                              End the Patriarchy
   *Issue*           Climate justice                                          Social inequality                                  political domination                                         Male violence
   *Ideology*        Radical ecology                                          Revolutionary unionism                             Autonomous Marxism                                           Queer theory
@@ -1161,7 +1147,7 @@ autonomy, green environmentalism, and pink genderism:
   *Movements*       ZAD, Climate Camps, Earth First!                         EuroMayDay, Spanish CGT, IWW                       Nuit Debout, No Border, Antifa, Invisible Committee          Ni Una Menos, \#Feministrike
   ----------------- -------------------------------------------------------- -------------------------------------------------- ------------------------------------------------------------ ------------------------------
 
-Table 12: Anti-Capitalism: Anarchy, Autonomy, Ecology, and Feminism
+Table 23: Anti-Capitalism: Anarchy, Autonomy, Ecology, and Feminism
 
 It’s vital for anarchists and autonomists of all stripes to look out to
 the wider world, and open up to the queer and creative influences coming

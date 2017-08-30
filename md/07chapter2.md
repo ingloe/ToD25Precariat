@@ -5,14 +5,14 @@ A-id: 25
 Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: 00
-Article-title: Chapter 2. The Anatomy of Precarity and the Precariat as Historical Class
+Item-id: 07
+Article-title: Chapter 2
 Article-status: accepted
 Author: Alex Foti
 Author-email:   corresponding address
-Author-bio:  precarious, editor, activist, creator of EUROMAYDAY and writer of ANARCHY IN THE EU, theorist of the Precariat, Great Recession, Europe
-Abstract:   General Theory of the Precariat by Alex Foti
-Keywords:   precarity, precariat, europe, recession, revolution, economy
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   precarity, precariat, revolution, recession, economy
 Rights: CC BY-NC 4.0
 
 ---
@@ -155,7 +155,7 @@ still remains outside the reach of European Union treaties, since
 national governments consider it their preserve.
 
   ---------- ------------------ -------------------
-             *Left*             *Right*
+             **Left**           **Right**
   *Open*     Social Populism    Liberal Democracy
   *Closed*   Social Democracy   National Populism
   ---------- ------------------ -------------------
@@ -351,19 +351,29 @@ This provides a viewpoint from which we can analyze precarity from the
 perspective of the kind of labor market prevalent in contemporary
 information economies around the world.
 
-  -------------- ---------- ----------- ----------------------- ---------------------- -------------- ------------------------------------ --------------------- --------------------
-                 *Paid*     *Unpaid*    *In Labor Force*        *Not in Labor Force*   *Part-Time*    *Full-Time*                          *Under-the-Counter*   *Illegal*
+  -------------- --------------- ------------------------------------ ----------------------- ------------------------
+                 **Paid**        **Unpaid**                           **In Labor Force**      **Not in Labor Force**
 
-  *Short-Term*   Temp       Intern      Precarious,             NEET                   Retail Chain   Clerical Temp, Construction Worker   Daily Laborer         Mule,
-                                                                                                                                                                 
-  *Relation*                            Laid Off                                       Worker                                                                    Pusher, Prostitute
+  *Short-Term*   Temp            Intern                               Precarious,             NEET
+                                                                                              
+  *Relation*                                                          Laid Off                
 
-  *Long-Term*    Employee   Volunteer   Unemployed, Permatemp   Outcast                Pink- Collar   White-Collar, Blue-Collar            Squatter,             Hooligan,
-                                                                                                                                                                 
-  *Relation*                                                                                                                               Indentured Worker     Gambler,
-                                                                                                                                                                 
-                                                                                                                                                                 Gangster
-  -------------- ---------- ----------- ----------------------- ---------------------- -------------- ------------------------------------ --------------------- --------------------
+  *Long-Term*    Employee        Volunteer                            Unemployed, Permatemp   Outcast
+                                                                                              
+  *Relation*                                                                                  
+
+                 **Part-Time**   **Full-Time**                        **Under-the-Counter**   **Illegal**
+
+  *Short-Term*   Retail Chain    Clerical Temp, Construction Worker   Daily Laborer           Mule,
+                                                                                              
+  *Relation*     Worker                                                                       Pusher, Prostitute
+
+  *Long-Term*    Pink- Collar    White-Collar, Blue-Collar            Squatter,               Hooligan,
+                                                                                              
+  *Relation*                                                          Indentured Worker       Gambler,
+                                                                                              
+                                                                                              Gangster
+  -------------- --------------- ------------------------------------ ----------------------- ------------------------
 
 Table 5: The Precarity Matrix: Precarious and Outcasts in the Labor
 Market Today

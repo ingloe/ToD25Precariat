@@ -5,17 +5,18 @@ A-id: 25
 Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: 00
-Article-title: Chapter 1. Precarious Times
+Item-id: 06
+Article-title: Chapter 1
 Article-status: accepted
 Author: Alex Foti
 Author-email:   corresponding address
-Author-bio:  precarious, editor, activist, creator of EUROMAYDAY and writer of ANARCHY IN THE EU, theorist of the Precariat, Great Recession, Europe
-Abstract:   General Theory of the Precariat by Alex Foti
-Keywords:   precarity, precariat, europe, recession, revolution, economy
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   precarity, precariat, revolution, recession, economy
 Rights: CC BY-NC 4.0
 
 ---
+
 
 # Chapter 1. Precarious Times
 
